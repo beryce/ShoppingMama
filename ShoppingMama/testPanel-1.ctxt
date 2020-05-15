@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=testPanel
+comment1.params=row\ col
+comment1.target=testPanel(int,\ int)
+comment2.params=
+comment2.target=void\ createIcons()
+comment2.text=\n\ Creates\ item\ icons\ to\ and\ add\ to\ array\ list\n
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment3.text=\n\ Draws\ the\ item\ icons\ on\ the\ maze\n\ \n\ @param\ Graphics\ g\ -\ object\ used\ to\ draw\ image\ on\ screen\ \n
+numComments=4

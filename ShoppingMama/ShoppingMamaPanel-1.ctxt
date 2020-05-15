@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ShoppingMamaPanel
+comment1.params=row\ col\ levelOfDiff
+comment1.target=ShoppingMamaPanel(int,\ int,\ java.lang.String)
+numComments=2

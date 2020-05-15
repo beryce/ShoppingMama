@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ShoppingMama
+comment0.text=\n\ Description\:\ ShoppingMama\ acts\ as\ a\ driver\ for\ the\ game.\n\ \n\ 230\ member\ contributions\:\n\ Beryce\ -\ created\ entire\ class\n\n\ @author\ Beryce\ Garcia\n\ @version\ December\ 17,\ 2018\n
+comment1.params=level
+comment1.target=ShoppingMama(java.lang.String)
+comment1.text=\n\ Constructor\ for\ the\ ShoppingMama\ class.\ This\ method\ creates\ and\ initializes\ a\ \n\ new\ Shopping\ Mama\ game.\n\ @param\ String\ level\n\ @return\ N/A\n
+comment2.params=
+comment2.target=java.lang.String\ getDifficulty()
+comment2.text=\n\ Getter\ method\ that\ returns\ the\ difficulty\ level\ set\ by\ the\ user.\n\ @param\ N/A\n\ @return\ String\ difficulty\n
+comment3.params=level
+comment3.target=void\ setDifficulty(java.lang.String)
+comment3.text=\n\ Setter\ method\ that\ sets\ the\ difficulty\ according\ to\ the\ level\n\ passed\ into\ the\ parameter.\n\ @param\ String\ level\n\ @return\ N/A\n
+comment4.params=
+comment4.target=void\ setDimensions()
+comment4.text=\n\ Helper\ method\ that\ sets\ the\ dimensions\ of\ the\ main\ game\ panel\ according\ to\ the\ level\n\ chosen\ by\ the\ user.\n\ @param\ N/A\n\ @return\ N/A\n
+comment5.params=
+comment5.target=int\ getWidth()
+comment5.text=\n\ Getter\ method\ that\ returns\ the\ width.\n\ @param\ N/A\n\ @return\ int\ width\n
+comment6.params=
+comment6.target=int\ getHeight()
+comment6.text=\n\ Getter\ method\ that\ returns\ the\ height.\n\ @param\ N/A\n\ @return\ int\ height\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ Used\ for\ testing.\n\ @param\ String[]\ args\n\ @return\ N/A\n
+numComments=8

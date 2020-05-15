@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ScoresPanel
+comment0.text=\n\ ScoresPanel\ is\ the\ main\ panel\ in\ the\ Results\ Panel/\n\n\ @author\ Beryce\ Garcia\n\ @version\ December\ 21,\ 2018\n
+comment1.params=userScore
+comment1.target=ScoresPanel(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ScoresPanel\n
+comment2.params=
+comment2.target=void\ createScores()
+comment3.params=
+comment3.target=javax.swing.JPanel\ getJPanel()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ShoppingMamaGUI
+comment0.text=\n\ ShoppingMamaGUI\ demonstrates\ a\ graphical\ user\ interface\ and\ an\ event\ listener\n\ for\ the\ ShoppingMama\ game.\ \n\n\ @author\ Tiasa\ K.,\ Anna\ K.,\ Beryce\ G.\n\ @version\ CS230\ Final\ Project;\ Dec\ 2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\ method\:\ Creates\ and\ displays\ the\ main\ program\ frame\n\n
+numComments=2

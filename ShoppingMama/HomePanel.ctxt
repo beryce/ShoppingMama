@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=HomePanel
+comment0.text=\n\ Description\:\ The\ home\ panel\ for\ the\ game\ that\ displays\ the\ start\ and\ instructions\ buttons.\n\ \n\n\ @author\ Anna\ Kawakami,\ Beryce\ Garcia\n\ @version\ \n
+comment1.params=instr
+comment1.target=HomePanel(InstructionsPanel)
+comment2.params=
+comment2.target=java.lang.String\ getLevel()
+numComments=3

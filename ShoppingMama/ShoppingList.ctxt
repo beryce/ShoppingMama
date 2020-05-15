@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ShoppingList
+comment1.params=
+comment1.target=ShoppingList()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ShoppingList\n
+comment2.params=
+comment2.target=java.util.Hashtable\ makeShoppingList()
+comment2.text=\n\ Creates\ and\ returns\ the\ shopping\ list\ hashtable.\ All\ keys\ of\ hashtable\ \n\ are\ filled\ but\ values\ (how\ much\ user\ accumulated\ of\ each\ item)\ is\ set\ to\ zero.\ \n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getRandom3Ints()
+comment3.text=\ \n\ helper\ method\ to\ get\ 3\ random\ numbers\ that\ are\ not\ overlapping\ \n
+comment4.params=
+comment4.target=java.util.Hashtable\ getShoppingList()
+comment4.text=\n\ Returns\ most\ updated\ hashtable.\ \n\ @\n
+comment5.params=
+comment5.target=int\ getUsersPoints()
+comment5.text=\n\ Returns\ the\ number\ of\ points\ the\ user\ accumulated\n
+comment6.params=item
+comment6.target=void\ addPoints(java.lang.String)
+comment6.text=\n\ Fills\ in\ hashtables'\ values\ according\ to\ when\ user\ collects\ item.\ \n\ Note\ (delete\ this\ later)\:\ ideally\ the\ parameter\ would\ be\ of\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ type\ ItemNode\ so\ no\ loop\ needed\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\n\ Created\ for\ testing\ purposes.\ \n
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WhiteSpacePanel
+comment0.text=\n\ Returns\ an\ empty\ panel\ to\ create\ white\ space\ within\ the\ Results\ Panel\n\n\ @author\ Beryce\ Garcia\n\ @version\ December\ 21,\ 2018\n
+comment1.params=
+comment1.target=WhiteSpacePanel()
+comment2.params=
+comment2.target=void\ createJPanel()
+comment2.text=\n\ Helper\ method\ that\ completes\ the\ creation\ of\ the\ JPanel\n
+comment3.params=
+comment3.target=javax.swing.JPanel\ getJPanel()
+comment3.text=\n\ Getter\ method\ that\ returns\ the\ JPanel\n
+numComments=4

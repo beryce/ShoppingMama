@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Shopper
+comment0.text=\n\ Shopper\ represents\ the\ user\ of\ the\ ShoppingMama\ game.\n\ \n\ @author\ Tiasa,\ Anna,\ Beryce\n\ @version\ CS230\ Final\ Project;\ Dec\ 2018\n
+comment1.params=
+comment1.target=Shopper()
+comment1.text=\n\ Constructs\ a\ new\ instance\ of\ the\ Shopper\ object\n
+comment2.params=
+comment2.target=javax.swing.ImageIcon\ getIcon()
+comment2.text=\n\ Returns\ the\ image\ of\ the\ user\ icon\n\ \n\ @return\ ImageIcon\ icon\ -\ the\ shopping\ bag\ user\ icon\ \n
+comment3.params=
+comment3.target=int\ getX()
+comment3.text=\n\ Returns\ the\ user's\ current\ x-coordinate\ location\n\ \n\ @return\ int\ x\ \n
+comment4.params=
+comment4.target=int\ getY()
+comment4.text=\n\ Returns\ the\ user's\ current\ y-coordinate\ location\n\ \n\ @return\ int\ y\ \n
+comment5.params=dx\ dy
+comment5.target=void\ move(int,\ int)
+comment5.text=\n\ Updates\ the\ user's\ current\ location\ on\ the\ maze.\n\ Adds\ the\ number\ of\ steps\ moved\ in\ the\ horizontal\ and\n\ vertical\ direction\ to\ current\ x\ and\ y\ position.\ \ \n\ \n\ @param\ int\ dx\ -\ change\ in\ x\ direction\n\ @param\ int\ dy\ -\ change\ in\ y\ direction\n
+comment6.params=
+comment6.target=int\ getScore()
+comment6.text=\n\ Returns\ the\ user's\ current\ score\n\ \n\ @return\ int\ score\ \n
+comment7.params=pts
+comment7.target=void\ setScore(int)
+comment7.text=\n\ Adds\ points\ to\ the\ user's\ current\ score\n\ \n\ @param\ int\ pts\ -\ new\ points\ added\n
+numComments=8

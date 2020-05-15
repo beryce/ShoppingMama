@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=HighScores
+comment0.text=\n\ HighScores\ keeps\ track\ of\ the\ scores\ and\ sorts\ them\ in\ descending\ order\ with\ the\ \n\ highest\ score\ at\ the\ top.\ This\ information\ will\ be\ revealed\ in\ the\ results\ panel\n\ at\ the\ end\ of\ the\ game.\ Only\ the\ top\ 5\ scores\ will\ be\ displayed.\n\ \n\ 230\ member\ contributions\:\n\ Beryce\ -\ created\ entire\ class\n\n\ @author\ Beryce\ Garcia\n\ @version\ December\ 17,\ 2018\n
+comment1.params=fileName
+comment1.target=HighScores(java.lang.String)
+comment1.text=\n\ Creates\ and\ initializes\ a\ new\ HighScores\ class\ with\ the\ given\ parameters.\n\ @param\ String\ fileName\n\ @return\ N/A\n
+comment2.params=score
+comment2.target=void\ add(int)
+comment2.text=\n\ Adds\ a\ score\ to\ the\ vector\ and\ also\ updates\ the\ text\ file.\n\ @param\ int\ score\n\ @return\ N/A\n
+comment3.params=
+comment3.target=void\ sortScores()
+comment3.text=\n\ Helper\ method\ that\ sorts\ the\ scores\ in\ descending\ order.\n\ @param\ N/A\n\ @return\ N/A\n
+comment4.params=
+comment4.target=void\ writeScore()
+comment4.text=\n\ Writes\ the\ scores\ onto\ the\ text\ file.\n\ @param\ N/A\n\ @return\ N/A\n
+comment5.params=
+comment5.target=java.lang.String[]\ getTop5()
+comment5.text=\n\ Returns\ an\ array\ of\ strings\ with\ the\ top\ 5\ scores.\n\ @param\ N/A\n\ @return\ String[]\ top5\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ a\ string\ that\ displays\ all\ of\ the\ scores.\ Scores\ should\ be\ sorted\n\ in\ descending\ order.\n\ @param\ N/A\n\ @return\ String\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ Used\ for\ testing.\n\ @param\ String[]\ args\n\ @return\ N/A\n
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ResultsPanel
+comment0.text=\n\ Description\:\ ResultsPanel\ displays\ the\ resulting\ score\ of\ the\ user\ after\ the\ game\ has\n\ terminated.\ It\ provides\ a\ score\ breakdown\ and\ also\ shows\ how\ many\ of\ which\n\ items\ were\ collected\ by\ the\ user.\ Lastly,\ it\ provides\ users\ with\ the\ option\n\ to\ replay\ the\ game\ or\ exit\ the\ game.\n\ \n\ 230\ member\ contributions\:\n\ Beryce\ -\ created\ entire\ class\n\ \n\n\ @author\ Beryce\ Garcia\n\ @version\ December\ 21,\ 2018\n
+comment1.params=game
+comment1.target=ResultsPanel(ShoppingMama)
+comment1.text=\ Constructor\ which\ creates\ and\ intializes\ the\ results\ panel.\n\ @rparam\ N/A\n\ @return\ N/A\n
+comment2.params=
+comment2.target=void\ drawHighScores()
+comment2.text=\n\ Helper\ method\ to\ display\ the\ top\ high\ scores\ on\ the\ results\ panel.\n\ @param\ N/A\n\ @return\ N/A\n
+comment3.params=
+comment3.target=void\ drawScores()
+comment3.text=Helper\ to\ create\ the\ scores\ on\ the\ panel\n\ @param\ N/A\n\ @return\ N/A\n
+comment4.params=
+comment4.target=void\ drawImages()
+comment4.text=Helper\ method\ to\ put\ the\ image\ icons\ on\ the\ panel\n\ @param\ N/A\n\ @return\ N/A\n
+comment5.params=
+comment5.target=void\ drawItemsCollected()
+comment5.text=Helper\ method\ to\ draw\ the\ items\ collected\n\ @param\ N/A\n\ @return\ N/A\n
+numComments=6

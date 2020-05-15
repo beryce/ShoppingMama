@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ItemNode
+comment0.text=\n\ Represents\ an\ item\ and\ its\ values,\ including\ the\ String\ name,\ pointValue,\ and\ impact\ (as\n\ represented\ as\ true\ \=\ good\ item\ to\ collect,\ false\ \=\ bad\ item\ to\ collect).\n\ Has\ these\ three\ elements\ as\ constructors.\ \n\n\ @author\ Anna\ Kawakami\ \n
+comment1.params=
+comment1.target=ItemNode()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Item\n
+comment2.params=
+comment2.target=boolean\ getImpact()
+comment2.text=\n\ Returns\ the\ impact,\ in\ other\ words,\ whether\ the\ item\ will\ add\ or\ deduct\ points\ \n\ from\ the\ user's\ final\ score.\ \n\n\ @param\ \ N/A\n\ @return\ boolean\ false\ if\ it\ deducts\ points,\ true\ if\ it\ adds\ points\ \n
+comment3.params=newImpact
+comment3.target=void\ setImpact(boolean)
+comment3.text=\n\ Sets\ the\ impact\ of\ the\ item\ to\ true\ or\ false.\ \n\ \n\ @param\ boolean\ true\ if\ it\ adds\ points,\ false\ if\ it\ deducats\ points\ \n
+comment4.params=
+comment4.target=java.lang.String\ getItemName()
+comment5.params=newName
+comment5.target=void\ setItemName(java.lang.String)
+comment6.params=
+comment6.target=int\ getPointVal()
+comment7.params=newPointVal
+comment7.target=void\ setPointVal(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+comment9.text=\n\ Created\ for\ testing\ purposes.\ \n
+numComments=10
